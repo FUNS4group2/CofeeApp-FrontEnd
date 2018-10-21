@@ -16,18 +16,7 @@ export default {
 }
 
 
-import vueSlider from 'vue-slider-component';
 
-export default {
-  components: {
-    vueSlider
-  },
-  data () {
-    return {
-      value: 0
-    }
-  }
-}
 
 
 </script>
